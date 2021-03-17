@@ -7,7 +7,6 @@
 Here are some ideas to get you started:
 
 - 🌱 I’m currently learning Pyhton 
-- 🤔 I’m looking for help with ...
 - 💬 Ask me about python related querries
 - 📫 How to reach me: e-mail- vatsaashish11@gmail.com
 
