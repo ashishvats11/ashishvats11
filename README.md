@@ -2,7 +2,7 @@
 <h3 align="center">A passionate frontend developer from India</h3>
 
 
-#💫 About Me:
+#💫 About Me: <br>
 🌱 I'm currently practicing Data Structures and Algorithms<br><br>🔭 I’m currently working on Web-Development<br><br>👯 I’m looking to collaborate in Hackathons and new Projects<br><br>💬 Ask me about Java<br><br>📫 How to reach me vatsaashish11@gmail.com<br><br>😀 Learn better skills and attain perfection in coding.<br><br>⚡ Fun fact I'm an Magician, Artist and a pro Cricket Fan
 
 
