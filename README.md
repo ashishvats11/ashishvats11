@@ -6,7 +6,7 @@
 🌱 I'm currently practicing Data Structures and Algorithms<br><br>🔭 I’m currently working on Web-Development<br><br>👯 I’m looking to collaborate in Hackathons and new Projects<br><br>💬 Ask me about Java<br><br>📫 How to reach me vatsaashish11@gmail.com<br><br>😀 Learn better skills and attain perfection in coding.<br><br>⚡ Fun fact I'm an Magician, Artist and a pro Cricket Fan
 
 
-## 🌐 Socials:
+## <h4 align="center">🌐 Socials:</h4>
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/Ashish#8622) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/ashish-vats-88b19b209/) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/https://stackoverflow.com/users/15398292/ashish) 
 
 # 💻 Tech Stack:
