@@ -7,7 +7,7 @@
 
 
 ## <h2 align="center">🌐 Socials:</h4>
-<a href=(https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/Ashish#8622) ></a>
+<a href=(https://discord.gg/Ashish#8622) ><img src=https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white></a>
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/Ashish#8622) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/ashish-vats-88b19b209/) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/https://stackoverflow.com/users/15398292/ashish) 
 
 # 💻 Tech Stack:
@@ -23,7 +23,7 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=Ashish1-cell&icon=5&color=6)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
 
 
 
