@@ -9,9 +9,8 @@
 <p align = "center">
     <a href="https://discord.gg/Ashish#8622"><img src="https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white" alt = "Ashish's Discord"></a>
     
-    <a href="https://www.linkedin.com/in/ashish-vats-88b19b209/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt = "Ashish's Linkedin"></a>
- 
-    <a href="https://stackoverflow.com/users/15398292/ashis"><img src="https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white" alt = "Ashish's StackOverflow"></a>
+<a href="https://www.linkedin.com/in/ashish-vats-88b19b209/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt = "Ashish's Linkedin"></a>
+<a href="https://stackoverflow.com/users/15398292/ashis"><img src="https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white" alt = "Ashish's StackOverflow"></a>
  
 </p>
 
