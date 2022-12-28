@@ -21,16 +21,17 @@
 <h2 align="center">📊 My Stats:</h2>
 <p align = "center">
      <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Ashish1-cell&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true">
-    <br>
-     <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Ashish1-cell&theme=tokyonight&hide_border=false">
-    <br>
-     <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ashish1-cell&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact">
+<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Ashish1-cell&theme=tokyonight&hide_border=false">
+    
+<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ashish1-cell&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact">
 
 </p>
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Ashish1-cell&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
----
+<h2 align ="center">🏆 GitHub Trophies</h2>
+<p align="center">
+    <img src="https://github-profile-trophy.vercel.app/?username=Ashish1-cell&theme=radical&no-frame=false&no-bg=true&margin-w=4">
+</p>
+
 [![](https://visitcount.itsvg.in/api?id=Ashish1-cell&icon=5&color=6)](https://visitcount.itsvg.in)
 
 
