@@ -20,8 +20,8 @@
 <br>
 <h2 align="center">📊 My Stats:</h2>
 <p align = "center">
-     <img width="48%" src="https://github-readme-stats.vercel.app/api?username=ashishvats11&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true">
-<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=ashishvats11&theme=tokyonight&hide_border=false">
+     <img width="48%" height="50%" h src="https://github-readme-stats.vercel.app/api?username=ashishvats11&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true">
+<img width="48%"  src="https://github-readme-streak-stats.herokuapp.com/?user=ashishvats11&theme=tokyonight&hide_border=false">
     
 <img width="48%" height="100px src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashishvats11&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact">
 
